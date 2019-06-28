@@ -2,7 +2,7 @@ Learn to Git
 
 ### Getting & Creating Projects
 ```bash
-git init 2222
+git init 11111
 
 git clone <git-url>
 ```
